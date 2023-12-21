@@ -5,7 +5,7 @@
 ### Contributers
 ---
 - 42 intra: [amenses-](https://profile.intra.42.fr/users/amenses-)
-- 42 intra: [amitcul](https://profile.intra.42
+- 42 intra: [amitcul](https://profile.intra.42.fr/users/amitcul)
 
 ---
 
